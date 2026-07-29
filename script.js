@@ -74,7 +74,7 @@ function showQuestion(){
 
         document.getElementById("category").innerText = "Category: " + match[2];
 
-        document.getElementById("type").innerText = "Type: " + match[3];
+        document.getElementById("type").innerText = "Author: " + match[3];
 
     }
 
