@@ -1,12 +1,12 @@
 ===ONE DRINK CONVERSATIONS===
 What is your favourite type of breakfast biscuit? (Category: Food and Drink, A)
 Should secondary schools teach children about trade unions? (Category: Education, B)
-Top 3/Bottom 3 sports (Category: Sport, A)
+What are your top three and bottom three sports? (Category: Sport, A)
 What is the best unlikely combination of food? (Eg. Chips and Gravy) (Category: Food and Drink, B)
 What is the better make of phone? (Category: Technology, B)
 Who was the greatest English international midfielder? (Category: Sport, B)
 ===TWO DRINK CONVERSATIONS===
-Is snooker/pool a sport? (Category: Sport, A)
+Is snooker and pool a sport? (Category: Sport, A)
 Should 'Manchester City' move to a football league in the United Arab Emirates? (Category: Sport, A)
 Should we bring back the insults of the early noughties? (Gaylord, pansy, puff etc.) (Category: Banter, C)
 Should we take the Nations League more seriously? (Category: Sport, A)
@@ -55,7 +55,7 @@ BBC (Category: Television, B)
 Hillsborough (Category: Sport, A)
 Should transgender women be allowed to undergo uterus and fallopian tube transplants that makes them able to bear children? (Category: Ethics, A)
 Should we make Jeremy Corbyn the king? (Category: Politics, A)
-Should we track down Chloe/Fatso? (Category: People, B)
+Should we track down each other's exes? (Category: People, B)
 Should we try harder to end poverty and famine in Africa? (Category: Politics, A)
 Was COVID-19 real? (Category: Health, C)
 ===SEVEN DRINK CONVERSATIONS===
@@ -84,7 +84,7 @@ Feminism (Category: Politics, A)
 ===TEN DRINK CONVERSATIONS===
 After British what is your favourite race? (Category: General, A)
 Was Hitler right? (Category: Politics, A)
-Was Mr Redsell a profit? (Category: Religion, B)
+Was our headteacher a profit? (Category: Religion, B)
 What is the best beer/ale/lager? (Category: Food and Drink, B)
 ===ELEVEN DRINK CONVERSATIONS===
 Why are we here? (Category: General, A)
